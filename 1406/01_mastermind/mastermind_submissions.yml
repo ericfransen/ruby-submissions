@@ -9,7 +9,7 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Allison Larson:
-    repository: git@github.com:allisonlarson/mastermind.git
+    repository: git@github.com/allisonlarson/mastermind.git
     notes: "Notes about extensions or things a reviewer needs to know"
     evaluation:
       Fundamental Ruby & Style: 0
@@ -63,8 +63,8 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Emily Davis:
-    repository: git@github.com:emilyadavis303/mastermind.git
-    notes: "Whew!"
+    repository: git@github.com:username/reponame.git
+    notes: "Notes about extensions or things a reviewer needs to know"
     evaluation:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
@@ -72,7 +72,7 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Eric Fransen:
-    repository: git@github.com:username/reponame.git
+    repository: git@github.com/ericfransen/mastermind.git
     notes: "Notes about extensions or things a reviewer needs to know"
     evaluation:
       Fundamental Ruby & Style: 0
@@ -117,8 +117,8 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Jonmichael Chambers:
-    repository: git@github.com:tyrbo/mastermind.git
-    notes: "Added some ASCII art and colors. Added top scores. Added guessing history. Submitted as a gem to Rubygems. Didn't get to multiple players or difficulty levels."
+    repository: git@github.com:username/reponame.git
+    notes: "Notes about extensions or things a reviewer needs to know"
     evaluation:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
