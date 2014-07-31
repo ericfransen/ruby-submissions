@@ -28,12 +28,12 @@ submissions:
     instructor_evaluation:
       notes: ""
       rubric:
-        Functional Expectations: 4
-        Test-Driven Development: 3
-        Encapsulation / Components: 2
-        Fundamental Ruby & Style: 3
-        Sinatra / Web and Business Logic: 3
-        View Layer: 2
+        Functional Expectations: 0
+        Test-Driven Development: 0
+        Encapsulation / Components: 0
+        Fundamental Ruby & Style: 0
+        Sinatra / Web and Business Logic: 0
+        View Layer: 0
     peer_evaluation:
       notes: ""
       rubric:
@@ -49,21 +49,29 @@ submissions:
     instructor_evaluation:
       notes: ""
       rubric:
-        Functional Expectations: 3
-        Test-Driven Development: 2.5
-        Encapsulation / Components: 3
-        Fundamental Ruby & Style: 3
-        Sinatra / Web and Business Logic: 3
-        View Layer: 3
-    peer_evaluation:
-      notes: ""
-      rubric:
         Functional Expectations: 0
         Test-Driven Development: 0
         Encapsulation / Components: 0
         Fundamental Ruby & Style: 0
         Sinatra / Web and Business Logic: 0
         View Layer: 0
+    peer_evaluation:
+      notes: "func. expect. = medium on 'Contact Us' - had image upload functionality but we weren't able to get it working
+                              medium on 'Web Based Application System'
+              TDD           = small number of acceptance tests
+              encap., comp. = good breakdown of components, could break views by pulling admin into own file
+                              good use of SRP, could use models
+              style, syntax = style is good, difficult to find areas to refactor
+              sinatra, logic= good separation of logic from web
+              view layer    = could break down views into partials
+      "
+      rubric:
+        Functional Expectations: 3
+        Test-Driven Development: 2.5
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3.5
+        Sinatra / Web and Business Logic: 3.5
+        View Layer: 3
   Jonmichael Chambers, Eric Fransen, Alan Smith:
     repository: https://github.com/tyrbo/hapa-sushi
     setup_notes: "Needs (brew install imagemagick) ImageMagick. init.rb file will build a database for whatever env we are in."
