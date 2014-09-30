@@ -157,11 +157,46 @@ http://dug.org/garden-list
 * [Any other integrations?]
 Google Maps
 
+
+### [Errandr]
+
+#### Pitch
+
+Running errands is a pain, group them all in an easy to follow route with Errandr.
+
+#### Description
+
+Errandr is the app to use when you have errands to run.  Simply put in which errands
+you need to run out of common errands: gas, bank, grocery, post office, etc.
+Errandr will select the best route for running all your errands and is smart enough to
+add personalized errands as well as stack tasks accordingly (like getting groceries
+last).
+
+#### Target Audience
+Busy people who like efficiency.
+
+#### Integrations
+
+* [What OAuth provider makes sense for this audience?]
+Amazon OAuth
+
+* [What Data.gov data or API will you use?]
+grocery: http://data.opencolorado.org/dataset/city-and-county-of-denver-food-stores
+post: https://www.usps.com/business/web-tools-apis/welcome.htm
+fuel (gas): http://www.mygasfeed.com/keys/api
+fuel (electric): http://data.opencolorado.org/dataset/city-and-county-of-denver-electric-vehicle-charging-stations
+
+* [Any other integrations?]
+Google Maps
+
 ```
 ## Other Idea Dump:
 
 -I would really like to build out an app that aggregates events around a local
 area on a given day/night; a little overdone but I would find it very interesting.
+I also liked the 'Yelp for Local Art' idea as it was very similar to one I had,
+but the gov data is old and stale; I would like to identify new art galleries,
+exhibits, art events, and artistic agencies (graphic design, web design, app, etc.).
 
 -People around the nation (and world) are looking to CO to see the effects of
 legal marijuana sales.  This app will track marijuana sales, points of heaviest
