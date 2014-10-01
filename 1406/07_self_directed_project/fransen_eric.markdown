@@ -190,7 +190,7 @@ fuel (electric): http://data.opencolorado.org/dataset/city-and-county-of-denver-
 Google Maps
 
 ```
-## Other Idea Dump:
+Other Idea Dump:
 
 -I would really like to build out an app that aggregates events around a local
 area on a given day/night; a little overdone but I would find it very interesting.
